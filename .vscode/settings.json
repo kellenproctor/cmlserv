@@ -1,0 +1,9 @@
+{
+  "xo.enable": true,
+  "files.exclude": {
+    ".cache": true,
+    ".vscode": true,
+    "node_modules": true,
+    "yarn.lock": true
+  }
+}
