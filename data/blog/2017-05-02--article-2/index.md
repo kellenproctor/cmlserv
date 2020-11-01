@@ -14,4 +14,8 @@ My awesome article
 ## TODO
 
 -   [x] Replace image
--   [ ] Write an awesome article
+-   [X] Write an awesome article
+
+Hacktoberfest ends
+soon I must submit PR
+the end is in sight
