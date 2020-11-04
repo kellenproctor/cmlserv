@@ -14,4 +14,8 @@ My awesome article
 ## TODO
 
 -   [x] Replace image
--   [ ] Write an awesome article
+-   [X] Write an awesome article
+
+Creepy happening
+Hunters moon, blood moon, full moon
+all on Halloween
