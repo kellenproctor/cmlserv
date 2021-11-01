@@ -19,3 +19,7 @@ My awesome article
 Hacktoberfest ends
 soon I must submit PR
 the end is in sight
+
+For the season comes
+but once a year, and merry
+t-shirts do arrive
